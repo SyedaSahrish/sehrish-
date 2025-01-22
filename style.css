@@ -1,0 +1,10 @@
+.container{
+  border:2px solid red;
+}
+
+
+
+
+@media screen (max-width:854px) and (min-width:200px) {
+  
+}
